@@ -1,0 +1,1 @@
+# Minmax related to subject 'Sistemas Inteligentes' from UNESP
